@@ -134,8 +134,8 @@
     }
   },
   "dependencies": {
-    "@Leizhenpeng/install-pkg": "^0.1.1",
-    "@Leizhenpeng/utils": "^0.7.2",
+    "@antfu/install-pkg": "^0.1.1",
+    "@antfu/utils": "^0.7.2",
     "@iconify/utils": "^2.0.10",
     "debug": "^4.3.4",
     "kolorist": "^1.6.0",
@@ -143,7 +143,7 @@
     "unplugin": "^1.0.1"
   },
   "devDependencies": {
-    "@Leizhenpeng/eslint-config": "^0.34.0",
+    "@antfu/eslint-config": "^0.34.0",
     "@iconify/json": "^2.2.3",
     "@iconify/types": "^2.0.0",
     "@svgr/core": "^6.5.1",
